@@ -9,7 +9,7 @@ Installation
 Simply download through Package Management, and install.
 
 Use this constructions into chunk or templates: 
-`[[tinyurl?&url='[[++site_url]][[~[[*id]]]]']]`
+`[[tinyurl?&url='[[++site_url]][[~[[*id]]]]']]` or 
 `[[tinyurl?&url='http://www.lognlink.com']]`
 
 Documentation
