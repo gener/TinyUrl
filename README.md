@@ -15,4 +15,4 @@ Use this constructions into chunk or templates:
 Documentation
 =============
 Please see the official documentation at:
-http://color-rain.ru/modx-tinyurl
+http://color-rain.ru/modx-tinyurl.html
